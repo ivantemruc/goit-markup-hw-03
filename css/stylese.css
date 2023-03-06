@@ -16,3 +16,7 @@ body {
 .container {margin-top: 288px;
 margin-left: 156px;
 width: 1158px;}
+
+.navigation-list-link {list-style: none;}
+
+footer {background-color: #2E2F42; color: #ffffff;}
