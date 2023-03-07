@@ -20,3 +20,8 @@ width: 1158px;}
 .navigation-list-link {list-style: none;}
 
 footer {background-color: #2E2F42; color: #ffffff;}
+
+button {background: #F4F4FD;
+	border: 1px solid #E7E9FC;}
+
+.button:hover {background-color:#404BBF ;}
